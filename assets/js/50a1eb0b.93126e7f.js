@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkadventures_on_nexus=self.webpackChunkadventures_on_nexus||[]).push([[72],{3239:function(e){e.exports=JSON.parse('{"permalink":"/adventures-on-nexus/","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

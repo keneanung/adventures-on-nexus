@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://keneanung.github.io/adventures-on-nexus/</id>
+    <title>Adventures on Nexus Blog</title>
+    <updated>2021-11-10T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://keneanung.github.io/adventures-on-nexus/"/>
+    <subtitle>Adventures on Nexus Blog</subtitle>
+    <icon>https://keneanung.github.io/adventures-on-nexus/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Planning the journey]]></title>
+        <id>Planning the journey</id>
+        <link href="https://keneanung.github.io/adventures-on-nexus/2021/11/10/_Planning"/>
+        <updated>2021-11-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Good planning is already half the journey, they say. But in fact, no plan survives the first clash of enemy lines.]]></summary>
+        <content type="html"><![CDATA[<p>Good planning is already half the journey, they say. But in fact, no plan survives the first clash of enemy lines.</p><p>Foo Bar baz</p>]]></content>
+        <author>
+            <name>keneanung</name>
+        </author>
+    </entry>
+</feed>

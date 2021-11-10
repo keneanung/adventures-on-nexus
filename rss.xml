@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Adventures on Nexus Blog</title>
+        <link>https://keneanung.github.io/adventures-on-nexus/</link>
+        <description>Adventures on Nexus Blog</description>
+        <lastBuildDate>Wed, 10 Nov 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Planning the journey]]></title>
+            <link>https://keneanung.github.io/adventures-on-nexus/2021/11/10/_Planning</link>
+            <guid>Planning the journey</guid>
+            <pubDate>Wed, 10 Nov 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Good planning is already half the journey, they say. But in fact, no plan survives the first clash of enemy lines.]]></description>
+            <content:encoded><![CDATA[<p>Good planning is already half the journey, they say. But in fact, no plan survives the first clash of enemy lines.</p><p>Foo Bar baz</p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>
