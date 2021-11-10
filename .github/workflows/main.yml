@@ -1,0 +1,23 @@
+name: Deploy to gh-pages
+on:
+  push:
+    branches: [ development ]
+
+  workflow_dispatch:
+
+jobs:  
+  publish-website:
+      runs-on: ubuntu-latest
+
+      steps:
+        - uses: actions/checkout@v2
+        - uses: actions/setup-node@v2
+        - name: build website
+          run: |
+            npm ci
+            npm run build
+        - name: Deploy to GitHub Pages
+          uses: JamesIves/github-pages-deploy-action@4.1.5
+          with:
+            branch: gh-pages
+            folder: build
